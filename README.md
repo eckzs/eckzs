@@ -45,29 +45,13 @@ I'm drawn to the architectural decisions: data flow, service boundaries, fault i
 
 ## Skills
 
-### Cloud & Infrastructure
-
-| Cloud | IaC | Containers |
-|:-----:|:---:|:----------:|
-| <img src="https://skillicons.dev/icons?i=aws,azure" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> |
-
-### Backend & Data
-
-| Languages | Databases | Messaging |
-|:---------:|:---------:|:---------:|
-| <img src="https://skillicons.dev/icons?i=python,go,typescript" /> | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" /> | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /> |
-
-### Systems & DevOps
-
-| Operating Systems | CI/CD | Observability |
-|:-----------------:|:-----:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=githubactions" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog" /> |
-
-### Tools
-
-| | |
-|:---------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=git,bash,neovim" /> | |
+| | | | |
+|---|---|---|---|
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure" /> | **Languages** | <img src="https://skillicons.dev/icons?i=python,go,typescript,java,dotnet" /> |
+| **IaC** | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" /> |
+| **Containers** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /> | **Messaging** | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /> |
+| **CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,azuredevops" /> | **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /> |
+| **Systems** | <img src="https://skillicons.dev/icons?i=linux,windows" /> | **Tools** | <img src="https://skillicons.dev/icons?i=git,bash,neovim" /> |
 
 
 *"Good systems are designed to fail gracefully, not patched to survive."*
