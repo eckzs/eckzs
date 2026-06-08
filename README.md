@@ -1,6 +1,5 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&weight=900&size=40&pause=1000&color=7D52DF&background=27141400&center=true&vCenter=true&width=720&height=80&lines=Hi!;I'm+Erick+López;Platform+Engineer;Cloud+and+Security" alt="Typing SVG" />
-</h1>
+<h1 align="center">Erick López</h1>
+<h3 align="center">Systems Engineer · Backend & Distributed Systems</h3>
 
 <div align="center"> 
   <a href="mailto:ericklopez.dev@gmail.com">
@@ -22,15 +21,14 @@
 
 ## About Me
 
-Systems Engineer with experience in **Web Development** and a passion for **Operating Systems** and **Networks**.  
-Currently focused on **Platform Engineering** and **Cloud Security**, building reliable, scalable, and well-architected systems.
+Systems Engineer with a backend focus, interested in the **engineering principles behind distributed systems** — how services fail, how consistency is negotiated across nodes, and what it takes to build systems that degrade gracefully under pressure.
 
-My goal is to improve processes through **Infrastructure as Code**, automate **CI/CD pipelines**, and strengthen **Cloud Security** and **Data Reliability** in all implementations.
+I'm drawn to the architectural decisions: data flow, service boundaries, fault isolation, and the tradeoffs between consistency, availability, and partition tolerance. I approach cloud infrastructure and observability as tools that expose system behavior, not as the job itself.
 
 </td>
 <td width="50%" valign="top">
 
-## 🎓 Certifications
+## Certifications
 
 - **AWS Cloud Quest: Cloud Solutions Architect** (2026)
 - **AWS Well-Architected Proficient** (2026)
@@ -53,17 +51,23 @@ My goal is to improve processes through **Infrastructure as Code**, automate **C
 |:-----:|:---:|:----------:|
 | <img src="https://skillicons.dev/icons?i=aws,azure" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> |
 
+### Backend & Data
+
+| Languages | Databases | Messaging |
+|:---------:|:---------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=python,go,typescript" /> | <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" /> | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" /> |
+
 ### Systems & DevOps
 
 | Operating Systems | CI/CD | Observability |
 |:-----------------:|:-----:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=git,githubactions,gitlab" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> |
+| <img src="https://skillicons.dev/icons?i=linux,windows" /> | <img src="https://skillicons.dev/icons?i=githubactions" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana,datadog" /> |
 
-### Development
+### Tools
 
-| Languages | Tools |
+| | |
 |:---------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=python,go,typescript" /> | <img src="https://skillicons.dev/icons?i=bash,neovim" /> |
+| <img src="https://skillicons.dev/icons?i=git,bash,neovim" /> | |
 
 
-*"Automate everything, scale securely, and keep learning."*
+*"Good systems are designed to fail gracefully, not patched to survive."*
